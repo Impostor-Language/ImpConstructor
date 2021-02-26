@@ -27,7 +27,15 @@
     createServer.id( = Tasks.float + string
       float.host( = createServer
           ipLocal = { host.Id }
-     
+     TextBox("enter Ip addresses")
+       float.id( this + ip)
+     localdata; Id { = <0-9>
+             { Ip.string
+     float.id( = { string.float
+      ip.( = { String + ( { }
+          string.ip( source.ip
+   
+            
     
   
   
